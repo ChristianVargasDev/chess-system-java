@@ -10,6 +10,7 @@ public class Program {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("OLARRR");
+		System.out.println("OLAR2");
 		
 		
 		
